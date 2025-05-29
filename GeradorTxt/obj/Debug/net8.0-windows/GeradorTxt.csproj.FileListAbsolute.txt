@@ -1,0 +1,14 @@
+c:\Users\Usuário\GeradorTxt\bin\Debug\net8.0-windows\GeradorTxt.exe
+C:\Users\Usuário\GeradorTxt\bin\Debug\net8.0-windows\GeradorTxt.deps.json
+C:\Users\Usuário\GeradorTxt\bin\Debug\net8.0-windows\GeradorTxt.runtimeconfig.json
+c:\Users\Usuário\GeradorTxt\bin\Debug\net8.0-windows\GeradorTxt.dll
+c:\Users\Usuário\GeradorTxt\bin\Debug\net8.0-windows\GeradorTxt.pdb
+c:\Users\Usuário\GeradorTxt\obj\Debug\net8.0-windows\GeradorTxt.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Usuário\GeradorTxt\obj\Debug\net8.0-windows\GeradorTxt.AssemblyInfoInputs.cache
+c:\Users\Usuário\GeradorTxt\obj\Debug\net8.0-windows\GeradorTxt.AssemblyInfo.cs
+c:\Users\Usuário\GeradorTxt\obj\Debug\net8.0-windows\GeradorTxt.csproj.CoreCompileInputs.cache
+c:\Users\Usuário\GeradorTxt\obj\Debug\net8.0-windows\GeradorTxt.dll
+c:\Users\Usuário\GeradorTxt\obj\Debug\net8.0-windows\refint\GeradorTxt.dll
+c:\Users\Usuário\GeradorTxt\obj\Debug\net8.0-windows\GeradorTxt.pdb
+C:\Users\Usuário\GeradorTxt\obj\Debug\net8.0-windows\GeradorTxt.genruntimeconfig.cache
+C:\Users\Usuário\GeradorTxt\obj\Debug\net8.0-windows\ref\GeradorTxt.dll
